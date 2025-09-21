@@ -1,0 +1,5 @@
+{
+  "name": "Random Word Generator",
+  "description": "A fun, game-like application to generate a specified number of random words. Perfect for brainstorming, games, or just for fun!",
+  "requestFramePermissions": []
+}
